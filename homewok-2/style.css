@@ -1,0 +1,47 @@
+body {
+  margin: 20px;
+  color: #222222;
+  background-color: #f4f4f8;
+  font-family: Arial, sans-serif;
+}
+ 
+.card {
+  padding: 16px;
+  margin: 0 0 30px 0;
+  color: #222222;
+  background-color: #ffffff;
+  border: 2px solid #4a5a9a;
+}
+ 
+.form-box {
+  padding: 16px;
+  margin: 0 0 20px 0;
+  color: #222222;
+  background-color: #e8ebf7;
+  border: 1px solid #4a5a9a;
+}
+ 
+.info {
+  padding: 10px;
+  margin: 10px 0;
+  color: #1b3a1b;
+  background-color: #e6f4e6;
+  border: 1px solid #5a9a5a;
+}
+ 
+.error {
+  padding: 10px;
+  margin: 10px 0;
+  color: #8a1f1f;
+  background-color: #fbe9e9;
+  border: 1px solid #c05050;
+}
+ 
+.json {
+  padding: 10px;
+  margin: 10px 0;
+  color: #222222;
+  background-color: #ffffff;
+  border: 1px solid #999999;
+  white-space: pre-wrap;
+}
